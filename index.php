@@ -37,44 +37,48 @@
       
       <H2 class="text-center"><b>CASES IN INDIA</b></H2>
       
-      <div class="row py-2">
+     <div class="row py-2">
         
-        <div class="col-lg-4 text-center">
+        <div class="col-lg-6 text-center">
           <img src="Artboard 6.png" alt="Active Cases" style="width:200px;height: 200px;">
         </div>
-        <div class="col-lg-4 text-center">
-          <img src="Artboard 6 copy.png" alt="Recovered Cases" style="width:200px;height: 200px;">
-        </div>
-        <div class="col-lg-4 text-center">
-          <img src="Artboard 6 copy 2.png" alt="Total Deaths" style="width:200px;height: 200px;">
-        </div>
-        
-      </div>
-      
-      <div class="row py-2">
-        
-        <div class="col-lg-4 text-center">
+
+        <div class="col-lg-6 text-center">
           <h1 style="color:#01b6de; font-family: 'Lato', sans-serif;">
             1764
           </h1>
         </div>
+      </div>
 
-        <div class="col-lg-4 text-center">
+      <div class="row py-2">
+        <div class="col-lg-6 text-center">
+          <img src="Artboard 6 copy.png" alt="Recovered Cases" style="width:200px;height: 200px;">
+        </div>
+        
+        <div class="col-lg-6 text-center">
           <h1 style="color:#66bc46; font-family: 'Lato', sans-serif;">
             150
           </h1>
         </div>
+
+      </div>
+      
+      <div class="row py-2">
         
-        <div class="col-lg-4 text-center">
+        <div class="col-lg-6 text-center">
+          <img src="Artboard 6 copy 2.png" alt="Total Deaths" style="width:200px;height: 200px;">
+        </div>
+
+        <div class="col-lg-6 text-center">
           <h1 style="color:#d42027; font-family: 'Lato', sans-serif;">
             50
           </h1>
         </div>
+
       </div>
 
       <h5 ><small>Source :- Ministry of Health and Family Welfare India</small></h5>
       <h5><small>Last Updated on April 2,2020(5:30pm)</small></h5>
-
 <!--cases in world-->
 <section class="my-2">
   <div class="py-5 container-fluid">
@@ -87,15 +91,15 @@
           <img src="Artboard 6.png" alt="Active Cases" style="width:200px;height: 200px;">
         </div>
 
-        <div class="col-lg-6 text-center">
-          <img src="Artboard 6 copy 2.png" alt="Total Deaths" style="width:200px;height: 200px;">
+        <div class="col-lg-6 text-center" style="font-family: 'Lato', sans-serif;">
+          <h1 style="color:#01b6de">8,57,641</h1>
         </div>
 
       </div>
       <div class="row py-2">
-        
-        <div class="col-lg-6 text-center" style="font-family: 'Lato', sans-serif;">
-          <h1 style="color:#01b6de">8,57,641</h1>
+
+      	<div class="col-lg-6 text-center">
+          <img src="Artboard 6 copy 2.png" alt="Total Deaths" style="width:200px;height: 200px;">
         </div>
         
         <div class="col-lg-6 text-center" style="font-family: 'Lato', sans-serif;">
