@@ -18,3 +18,5 @@ This project was a group project and the members are :
 <li>Milind Dalakoti (/milind-dalakoti/)</li>
 </ul>
 *()-It contains linkedin profile of the member
+
+Copyright (c) Pradyumn Joshi
