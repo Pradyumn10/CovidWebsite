@@ -3,7 +3,7 @@
 <P> DUring the time of first lockdown I utitlized the time and created a website that shows the covid patients, recovered and death tolls details. Along with this
 it tells about the helpline number of various state governments authorities and also informs you about the latest news on COVID-19.</p>
 
-<h3>Tech Stack<h3>
+<h3>Tech Stack</h3>
 <ul>
 <li>HTML</li>
 <li>CSS</li>
