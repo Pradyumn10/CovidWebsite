@@ -32,7 +32,7 @@
 
 <div class="jumbotron" style="background-color: white;">
 	<section>
-			<img src="Artboard 6 copy 7.png" style="width:400px;height: 300px;display: block;margin-left: auto; margin-right: auto;">
+			<img src="./img/Artboard 6 copy 7.png" style="width:400px;height: 300px;display: block;margin-left: auto; margin-right: auto;">
 	</section>
 	
 	<section>

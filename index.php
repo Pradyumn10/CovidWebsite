@@ -22,7 +22,7 @@
 <div id="demo" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="Artboard 7.png" alt="try" width="900" height="400">
+      <img src="./img/Artboard 7.png" alt="try" width="900" height="400">
     </div>
   </div>
 
@@ -40,7 +40,7 @@
      <div class="row py-2">
         
         <div class="col-lg-6 text-center">
-          <img src="Artboard 6.png" alt="Active Cases" style="width:200px;height: 200px;">
+          <img src="./img/Artboard 6.png" alt="Active Cases" style="width:200px;height: 200px;">
         </div>
 
         <div class="col-lg-6 text-center">
@@ -52,7 +52,7 @@
 
       <div class="row py-2">
         <div class="col-lg-6 text-center">
-          <img src="Artboard 6 copy.png" alt="Recovered Cases" style="width:200px;height: 200px;">
+          <img src="./img/Artboard 6 copy.png" alt="Recovered Cases" style="width:200px;height: 200px;">
         </div>
         
         <div class="col-lg-6 text-center">
@@ -66,7 +66,7 @@
       <div class="row py-2">
         
         <div class="col-lg-6 text-center">
-          <img src="Artboard 6 copy 2.png" alt="Total Deaths" style="width:200px;height: 200px;">
+          <img src="./img/Artboard 6 copy 2.png" alt="Total Deaths" style="width:200px;height: 200px;">
         </div>
 
         <div class="col-lg-6 text-center">
@@ -88,7 +88,7 @@
       <div class="row py-2">
         
         <div class="col-lg-6 text-center">
-          <img src="Artboard 6.png" alt="Active Cases" style="width:200px;height: 200px;">
+          <img src="./img/Artboard 6.png" alt="Active Cases" style="width:200px;height: 200px;">
         </div>
 
         <div class="col-lg-6 text-center" style="font-family: 'Lato', sans-serif;">
@@ -99,7 +99,7 @@
       <div class="row py-2">
 
       	<div class="col-lg-6 text-center">
-          <img src="Artboard 6 copy 2.png" alt="Total Deaths" style="width:200px;height: 200px;">
+          <img src="./img/Artboard 6 copy 2.png" alt="Total Deaths" style="width:200px;height: 200px;">
         </div>
         
         <div class="col-lg-6 text-center" style="font-family: 'Lato', sans-serif;">
@@ -120,7 +120,7 @@
   <div class="container-fluid">
     <div class="jumbotron" style="background-color: white;">
 
-      <img src="Artboard 6 copy 3.png" alt="Symptoms" style="width:200px;height: 200px; display: block;margin-left: auto; margin-right: auto;">
+      <img src="./img/Artboard 6 copy 3.png" alt="Symptoms" style="width:200px;height: 200px; display: block;margin-left: auto; margin-right: auto;">
 
       <div class="row">
       
@@ -144,7 +144,7 @@
       
         <div class="col-lg-4 col-md-6 col-12 py-2 ">
 
-          <img src="pre1.png" alt="Precautions Image" class="image-fluid" style="width:600px;height: 300px;">
+          <img src="./img/pre1.png" alt="Precautions Image" class="image-fluid" style="width:600px;height: 300px;">
         
         </div>
     
@@ -161,7 +161,7 @@
   <div class="container-fluid">
     <div class="jumbotron" style="background-color: white;">
 
-      <img src="Artboard 6 copy 4.png" alt="Symptoms" style="width:200px;height: 200px; display: block;margin-left: auto; margin-right: auto;">
+      <img src="./img/Artboard 6 copy 4.png" alt="Symptoms" style="width:200px;height: 200px; display: block;margin-left: auto; margin-right: auto;">
 
       <div class="row">
       
@@ -190,7 +190,7 @@
       
         <div class="col-lg-4 col-md-6 col-12 py-2 ">
 
-          <img src="sym.jpg" alt="Symptoms Image" class="image-fluid" style="width:600px;height: 300px;">
+          <img src="./img/sym.jpg" alt="Symptoms Image" class="image-fluid" style="width:600px;height: 300px;">
         
         </div>
     
